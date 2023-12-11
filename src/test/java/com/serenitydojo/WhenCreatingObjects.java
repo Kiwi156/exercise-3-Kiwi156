@@ -18,6 +18,7 @@ public class WhenCreatingObjects {
         System.out.println(Rover.getAge());
         Rover.setFavoriteGame("Puppies");
         System.out.println(Rover.getFavoriteGame());
+        System.out.println(Rover.getFavoriteGame());gi
 
 
         Assert.assertEquals(Rover.getName(),"Rover");
